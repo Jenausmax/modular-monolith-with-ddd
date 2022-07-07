@@ -4,7 +4,6 @@ Full Modular Monolith .NET application with Domain-Driven Design approach.
 
 ## Announcement
 
-![](docs/Images/glory_to_ukraine.jpg)
 
 Learn, use and benefit from this project only if:
 
